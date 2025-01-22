@@ -1,2 +1,2 @@
-# spring-security-oauth-keycloack
-Curso OpenWebinars spring con oauth y keycloack
+# spring-security-oauth-keycloak
+Curso OpenWebinars spring con oauth y keycloak
