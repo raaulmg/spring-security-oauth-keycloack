@@ -1,0 +1,11 @@
+services:
+  keycloak:
+    image: quay.io/keycloak/keycloak:25.0.6
+    container_name: keycloak
+    environment:
+      - KEYCLOAK_ADMIN=admin
+      - KEYCLOAK_ADMIN_PASSWORD=admin
+    ports:
+      - "8090:8080"
+    # entrypoint: ["/opt/keycloak/bin/kc.sh", "start-dev"] # para una version -17
+    command: ["start-dev"] # Comando actualizado para Keycloak +17

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-security-oauth-keycloack</artifactId>
+	<artifactId>spring-security-oauth-keycloak</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-security-oauth-keycloack</name>
-	<description>Api con oauth y keycloack</description>
+	<name>spring-security-oauth-keycloak</name>
+	<description>Api con oauth y keycloak</description>
 	<url/>
 	<licenses>
 		<license/>

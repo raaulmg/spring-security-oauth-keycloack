@@ -1,10 +1,10 @@
-package com.example.spring_security_oauth_keycloack;
+package com.example.spring_security_oauth_keycloak;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityOauthKeycloackApplicationTests {
+class SpringSecurityOauthKeycloakApplicationTests {
 
 	@Test
 	void contextLoads() {
